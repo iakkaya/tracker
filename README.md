@@ -157,6 +157,7 @@ classes:
   - "person"
   - "car"
   - "bicycle"
+  - "drone"
   
 tracking:
   max_disappeared: 10
@@ -178,36 +179,14 @@ python -m pytest tests/
 
 # Belirli test dosyasını çalıştır
 python -m pytest tests/test_detection.py
-```
 
-## 🤝 Katkıda Bulunma
-
-1. Fork edin
-2. Feature branch oluşturun (`git checkout -b feature/AmazingFeature`)
-3. Commit edin (`git commit -m 'Add some AmazingFeature'`)
-4. Push edin (`git push origin feature/AmazingFeature`)
-5. Pull Request oluşturun
-
-## 📝 Lisans
-
-Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için [LICENSE](LICENSE) dosyasına bakın.
-
-## 👥 Katkıda Bulunanlar
-
-- [Your Name](https://github.com/yourusername) - Proje geliştiricisi
+- [ismail](https://github.com/iakkaya) - Proje geliştiricisi
 
 ## 📧 İletişim
 
 Sorularınız için:
-- Email: your.email@example.com
-- GitHub: [@yourusername](https://github.com/yourusername)
+- Email: iss.akkaya@hotmail.com 
+- GitHub:iakkaya
 
-## 🙏 Teşekkürler
 
-- OpenCV geliştirici ekibi
-- YOLO geliştiricileri
-- PyTorch ve TensorFlow topluluğu
 
----
-
-⭐ Projeyi beğendiyseniz yıldız vermeyi unutmayın!
